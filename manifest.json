@@ -1,0 +1,69 @@
+{
+	"name": "scpm_T.jwpub",
+	"hash": "9cc6d9b11c595be7a57b5914cc7e9d21877b933ebf9de9f63e0067de2862b77c",
+	"timestamp": "2024-09-14T23:47:34-03:00",
+	"version": 1,
+	"expandedSize": 818276,
+	"contentFormat": "z-a",
+	"htmlValidated": false,
+	"mepsPlatformVersion": 2.100000,
+	"mepsBuildNumber": 11937,
+	"publication": { 
+		"fileName": "scpm_T.db",
+		"type": 1,
+		"title": "Guia de presidência das Reuniões",
+		"shortTitle": "Guia de presidência das Reuniões",
+		"displayTitle": "Guia de presidência das Reuniões  (scpm)",
+		"referenceTitle": "Guia de presidência das Reuniões",
+		"undatedReferenceTitle": "Guia de presidência das Reuniões",
+		"titleRich": "Guia de presidência das Reuniões",
+		"displayTitleRich": "Guia de presidência das Reuniões  (scpm)",
+		"referenceTitleRich": "Guia de presidência das Reuniões",
+		"undatedReferenceTitleRich": "Guia de presidência das Reuniões",
+		"symbol": "scpm",
+		"uniqueEnglishSymbol": "scpm",
+		"uniqueSymbol": "scpm",
+		"undatedSymbol": "scpm",
+		"englishSymbol": "scpm",
+		"language": 5,
+		"hash": "6bb8a68d8ad9da031bfa82c516b0e29988b3f0e1",
+		"timestamp": "2024-09-14T23:47:34-03:00",
+		"minPlatformVersion": 1,
+		"schemaVersion": 8,
+		"year": 2024,
+		"issueId": 0,
+		"issueNumber": 0,
+		"variation": "",
+		"publicationType": "Talk",
+		"rootSymbol": "scpm",
+		"rootYear": 2024,
+		"rootLanguage": 0,
+		"images": [ 
+			{
+				"signature": "7753ae6a0e8ddf94db40509b5c45b7229edb42ef4:400:400",
+				"fileName": "programs-events_univ_pnr_lg.png",
+				"type": "t",
+				"attribute": "r",
+				"width": 400,
+				"height": 400	
+			}
+		],
+		"categories": [ 
+				"talk"
+		],
+		"attributes": [ 
+		],
+		"issueAttributes": [ 
+		],
+		"issueProperties": { 
+				"title": "Guia de presidência das Reuniões",
+				"undatedTitle": "Guia de presidência das Reuniões",
+				"coverTitle": "Guia de presidência das Reuniões",
+				"titleRich": "Guia de presidência das Reuniões",
+				"undatedTitleRich": "Guia de presidência das Reuniões",
+				"coverTitleRich": "Guia de presidência das Reuniões",
+				"symbol": "scpm_T",
+				"undatedSymbol": ""
+		}
+	}
+}
